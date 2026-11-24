@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#grad)"/>
+  <circle cx="400" cy="200" r="75" fill="rgba(255,255,255,0.15)"/>
+  <text x="400" y="222" font-family="system-ui, -apple-system, sans-serif" font-size="56" text-anchor="middle" fill="#ffffff">🏝️</text>
+  <text x="400" y="325" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" text-anchor="middle" fill="#ffffff" letter-spacing="1">TRIPPLANNER</text>
+  <text x="400" y="365" font-family="system-ui, -apple-system, sans-serif" font-size="16" text-anchor="middle" fill="rgba(255,255,255,0.8)">Destinasi Wisata</text>
+</svg>
